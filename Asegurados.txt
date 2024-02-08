@@ -1,0 +1,2 @@
+DNI,Nombres,Apellidos,Sexo,Edad
+70799234E,ALFONSO,FERNANDEZ,Masculino,23
